@@ -2,16 +2,18 @@
 
 # Amazon Web Services
 Cloud 9:
-  1. python3 -m venv ~/.venv
-  2. source ~/.venv/bin/activate
-  3. git clone git@github.com:hugompaixao/SPD.git
-  4. cd SPD
-  5. mkdir tutorial
-  6. cd tutorial
-  7. touch Makefile
-  8. touch hello.py
-  9. touch test_hello.py
-  10. touch requirements.txt
+  1. ssh-keygen -t rsa -> Bater 4 enters
+  2. cat /home/ec2-user/.ssh/id_rsa.pub -> Adicionar Chave ssh
+  3. python3 -m venv ~/.venv
+  4. source ~/.venv/bin/activate
+  5. git clone git@github.com:hugompaixao/SPD.git
+  6. cd SPD
+  7. mkdir tutorial
+  8. cd tutorial
+  9. touch Makefile
+  10. touch hello.py
+  11. touch test_hello.py
+  12. touch requirements.txt
 
 EC2: - http://13.49.170.109:8000
   1. sudo yum update
