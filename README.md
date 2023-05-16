@@ -4,7 +4,7 @@
 Cloud 9:
   1. python3 -m venv ~/.venv
   2. source ~/.venv/bin/activate
-  3. git clone 
+  3. git clone git@github.com:hugompaixao/SPD.git
   4. cd SPD
   5. mkdir tutorial
   6. touch Makefile
