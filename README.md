@@ -7,10 +7,11 @@ Cloud 9:
   3. git clone git@github.com:hugompaixao/SPD.git
   4. cd SPD
   5. mkdir tutorial
-  6. touch Makefile
-  7. touch hello.py
-  8. touch test_hello.py
-  9. touch requirements.txt
+  6. cd tutorial
+  7. touch Makefile
+  8. touch hello.py
+  9. touch test_hello.py
+  10. touch requirements.txt
 
 EC2: - http://13.49.170.109:8000
   1. sudo yum update
