@@ -21,7 +21,9 @@ EC2: - http://13.49.170.109:8000
   6. pip install --upgrade pip
   7. pip install django==2.1.5
   8. cd SPD/myapp
-  9. python manage.py runserver 0.0.0.0:8000
+  9. python3 manage.py makemigrations
+  10. python3 manage.py migrate
+  11. python3 manage.py runserver 0.0.0.0:8000
 
 https://www.youtube.com/watch?v=4T6fk6UtpsE&ab_channel=CloudCasts
 
