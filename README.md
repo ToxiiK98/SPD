@@ -18,7 +18,7 @@ Cloud 9:
 EC2: - http://13.49.170.109:8000
   1. sudo yum update
   2. sudo yum install git 
-  3. git clone 
+  3. git clone https://github.com/hugompaixao/SPD.git
   4. python3 -m venv ~/.venv
   5. source ~/.venv/bin/activate
   6. pip install --upgrade pip
