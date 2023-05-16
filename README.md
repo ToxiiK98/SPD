@@ -27,8 +27,8 @@ EC2: - http://13.49.170.109:8000
   9. python3 manage.py makemigrations
   10. python3 manage.py migrate
   11. python3 manage.py runserver 0.0.0.0:8000
-
-https://www.youtube.com/watch?v=4T6fk6UtpsE&ab_channel=CloudCasts
+  12. https://www.youtube.com/watch?v=uiPSnrE6uWE&t=234s&ab_channel=CloudWithDjango -> Apartir dos 15 minutos
+  13. https://www.youtube.com/watch?v=4T6fk6UtpsE&ab_channel=CloudCasts -> IP 
 
 # Google Cloud
 
