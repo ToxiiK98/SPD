@@ -1,6 +1,6 @@
 # SPD
 
-# AWS
+# Amazon Web Services
 Cloud 9
   1. python3 -m venv ~/.venv
   2. source ~/.venv/bin/activate
@@ -19,3 +19,7 @@ EC2 - http://13.49.170.109:8000
   9. python manage.py runserver 0.0.0.0:8000
 
 https://www.youtube.com/watch?v=4T6fk6UtpsE&ab_channel=CloudCasts
+
+# Google Cloud
+
+# Microsoft Azure
