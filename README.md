@@ -17,3 +17,5 @@ EC2
   7. pip install django==2.1.5
   8. cd 
   9. python manage.py runserver 0.0.0.0:8000
+
+https://www.youtube.com/watch?v=4T6fk6UtpsE&ab_channel=CloudCasts
